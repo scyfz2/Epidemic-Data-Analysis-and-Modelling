@@ -42,7 +42,7 @@ Despite high vaccination coverage, outbreaks can occur due to:
 
 ### Model Equations
 
-- ![SEIR Simulation of Measles in England (2023–2024)](/image/SEIR_Simulation.png)
+![SEIR Simulation of Measles in England (2023–2024)](/image/SEIR_Simulation.png)
 
 The SEIR model is described by the following differential equations:
 
@@ -62,7 +62,7 @@ The model is implemented in R, with the code provided in the file `EDAM_code.R`.
 
 ## Results
 
-- ![ Monthly New Measles Cases: With vs. Without Catch-up Vaccination](/image/Monthly_New_Measles_Cases.png)
+![Monthly New Measles Cases: With vs. Without Catch-up Vaccination](/image/Monthly_New_Measles_Cases.png)
 
 - **Without Vaccination**: Approximately 944,000 cumulative cases.
 - **With Vaccination**: Approximately 91,000 cumulative cases.
