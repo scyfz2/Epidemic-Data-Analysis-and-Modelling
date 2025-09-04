@@ -21,7 +21,7 @@ National surveillance data may be subject to underreporting, particularly in mil
 ### Exploring the Dataset
 - **Case Trend Figure**: Shows the temporal trend of confirmed measles cases from 2023 to 2024.
 - **Epidemic Stages**:
-  - ![Monthly Confirmed Measles Cases in England (2023–2024)](image/Monthly Confirmed Measles Cases in England (2023–2024).png)
+  - ![Monthly Confirmed Measles Cases in England (2023–2024)](/image/Monthly Confirmed Measles Cases in England (2023–2024).png)
   - Low-level period (Jan-Oct 2023): Average monthly cases were 16.7.
   - Exponential growth period (Nov 2023 - May 2024): Cases increased from 41 to 396.
   - Decline period (Jun-Dec 2024): Average monthly decrease of approximately 50 cases.
